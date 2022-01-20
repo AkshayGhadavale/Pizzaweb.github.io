@@ -306,7 +306,7 @@ color: #FFB901;
     flex-direction: column;
 justify-content: flex-start;
 
-background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)),url(/images/bottom1.png);
+background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)),url(../images/bottom1.png);
 }
 .wrapper2 .header{
 
@@ -476,7 +476,7 @@ color: white;
 justify-content: flex-start;
 background-color: #FFB901;
 background-position: right;
-background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(/images/bottom23.png);
+background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(../images/bottom23.png);
 }
 .wrapper3 .header{
     
